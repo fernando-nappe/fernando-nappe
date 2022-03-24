@@ -20,7 +20,8 @@
 - Power Query
 
 ## :mag: Find me
-[Fernando's LinkedIn](https://www.linkedin.com/in/fernando-nappe-4130084b/)
+- [Fernando's LinkedIn](https://www.linkedin.com/in/fernando-nappe-4130084b/)
+- [Write me](fernando.nappe@gmail.com)
 
 <!---
 fernando-nappe/fernando-nappe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
